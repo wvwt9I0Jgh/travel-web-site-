@@ -261,7 +261,7 @@ Bu proje açık kaynaklıdır ve katkılara açıktır. Geliştirme için:
 ## 📧 İletişim
 
 Proje hakkında sorularınız için:
-- **E-mail**: developer@elitelux.com
+- **E-mail**: atakan0909xxnxx@gmail.com
 - **GitHub**: Proje repository'si
 - **Dokümantasyon**: Bu README dosyası
 
@@ -272,5 +272,4 @@ Bu proje MIT lisansı altında yayınlanmıştır. Detaylı bilgi için LICENSE 
 ---
 
 **Son Güncelleme**: Şubat 2026  
-**Versiyon**: 2.1.0  
-**Durum**: Aktif Geliştirme  
+**Versiyon**: 2.1.0    
