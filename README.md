@@ -1,3 +1,6 @@
+# BU PROJE DOSYALAI ÇOK BÜYÜK OLDUĞUNDAN DOLAYI COMMİT SIRASINDA AKSAKLIK YAŞANMIŞTIR
+
+
 # EliteLux Premium Limousine Services - Full Project Documentation
 
 ## 📋 Proje Genel Bakış
